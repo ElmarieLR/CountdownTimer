@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-image: linear-gradient(#0cb7f2 0 25%, #7cdaf9, 60%, #ded5bb);
+  width: 100vw;
+  height: 100vh;
+}
+
+div {
+  width: 90%;
+  height: 90%;
+  margin: auto;
+  vertical-align: middle;
+  text-align: center;  
+}
+
+p {
+  font-family: Tahoma, Verdana, sans-serif;	
+  font-size: 72px;
+}
+
+#timerpar {
+  font-weight: bold;
+}
+
